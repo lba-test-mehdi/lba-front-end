@@ -1,5 +1,3 @@
-import {Rating} from "@mui/material";
-
 const parser = {
 
     currency: (value, locale = "fr-FR", currency = "EUR") => {

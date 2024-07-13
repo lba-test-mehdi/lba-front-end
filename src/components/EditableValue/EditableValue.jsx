@@ -1,5 +1,5 @@
 import {useState} from "react";
-import {Box, Button, Input, Modal, TextField} from "@mui/material";
+import {Box, Button, Modal, TextField} from "@mui/material";
 import lbaApi from "../../services/lbaApi.js";
 
 const TextFieldToPrint = ({value, onChange}) => {

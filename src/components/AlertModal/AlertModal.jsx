@@ -1,5 +1,4 @@
 import {Modal, Typography, Box, Button} from "@mui/material";
-import {useState} from "react";
 
 export function AlertModal({title, content, open, onConfirm, onCancel}) {
 
